@@ -1,0 +1,7 @@
+google_key = AIzaSyCWh84oYnZZCfQCxphLutiEELYPrF9iD6s
+
+googel_search_engine = <script async src="https://cse.google.com/cse.js?cx=4629e79d479b04aa1">
+			</script>
+			<div class="gcse-search"></div>
+
+search_engine_id = '4629e79d479b04aa1'
