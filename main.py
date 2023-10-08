@@ -8,7 +8,7 @@ import uvicorn
 app = FastAPI()
 
 
-MODEL = tf.keras.models.load_model("D:/Code/Python/Plant Diseases/models/1")
+MODEL = tf.keras.models.load_model("./models/1")
 
 CLASS_NAMES = ['Alstonia Scholaris',
                'Arjun',
